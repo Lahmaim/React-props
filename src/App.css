@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+#cardContainer{
+  margin: 10px;
+  max-width: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.headerCard{
+  
+  background-color: rgb(9, 255, 255);
+  text-align: center;
+  .title{
+    text-align: center;
+    font-weight: bold;
+   
+  }
+  span{
+    font-style: italic;
+  }
+}
